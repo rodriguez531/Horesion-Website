@@ -16,3 +16,5 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
+
+screenshot: Screen Shot 2022-07-09 at 4.54.00 PM.png
